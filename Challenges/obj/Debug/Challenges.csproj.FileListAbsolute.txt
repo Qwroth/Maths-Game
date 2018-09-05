@@ -1,0 +1,6 @@
+c:\users\quentin\documents\visual studio 2015\Projects\Challenges\Challenges\bin\Debug\Challenges.exe.config
+c:\users\quentin\documents\visual studio 2015\Projects\Challenges\Challenges\obj\Debug\Challenges.csprojResolveAssemblyReference.cache
+c:\users\quentin\documents\visual studio 2015\Projects\Challenges\Challenges\bin\Debug\Challenges.exe
+c:\users\quentin\documents\visual studio 2015\Projects\Challenges\Challenges\bin\Debug\Challenges.pdb
+c:\users\quentin\documents\visual studio 2015\Projects\Challenges\Challenges\obj\Debug\Challenges.exe
+c:\users\quentin\documents\visual studio 2015\Projects\Challenges\Challenges\obj\Debug\Challenges.pdb
